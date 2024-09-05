@@ -1,0 +1,24 @@
+.mainhead{
+    display:flex;
+    justify-content: center;
+    font-size: 40px;
+}
+
+.input{
+    font-size:20px;
+}
+.content{
+    margin-top:40px;
+}
+
+.calculate{
+    margin-left:200px;
+}
+
+button{
+    font-size: 20px;
+}
+
+.guide{
+    font-size: 20px;;
+}
